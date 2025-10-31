@@ -20,7 +20,10 @@ This project implements Cypress E2E tests for the event creation flow on Webmobi
 - **Fixtures**: JSON data for test inputs
 
 ## Test Execution
+npm init -y
+npm install cypress
 Run tests with: `npx cypress run`
+npm install
 
 ## Key Features Tested
 - Form validations and error messages
@@ -41,5 +44,6 @@ Any issues found during testing are documented in `bug-report-.md`.
 - `cypress/e2e/test-event.cy.js`: Main test file
 - `cypress/fixtures/event-data.json`: Test data
 - `README.md`: Project documentation
-- `bug-report-.md`: Bug reports (if any)
+- `bug-report-.md`: Bug reports 
 - Test execution video (to be recorded separately)
+
