@@ -1,0 +1,13 @@
+{
+  "name": "webmobi-assignment",
+  "version": "1.0.0",
+  "description": "Cypress QA Automation Assignment for Webmobi Event Site",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
+

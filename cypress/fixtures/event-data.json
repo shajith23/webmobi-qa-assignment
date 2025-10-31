@@ -1,0 +1,22 @@
+{
+  "event": {
+    "title": "Sample Event",
+    "description": "This is a sample event for testing",
+    "date": "2025-11-01",
+    "location": "Online",
+    "organizer": "Webmobi"
+  },
+  "session": {
+    "title": "Sample Session",
+    "speaker": "John Doe",
+    "time": "10:00 AM"
+  },
+  "attendee": {
+    "name": "Jane Smith",
+    "email": "jane@example.com"
+  },
+  "user": {
+    "email": "shajith350@gmail.com",
+    "password": "Sh@jith21!"
+  }
+}
